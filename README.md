@@ -1,9 +1,10 @@
 # Campus de la Ciencia y la Tecnología 
+# Eje TIC y Computación 
 
 **4-15 de julio de 2016**
 --
 
-<a href="http://goo.gl/forms/L8dJB8cWi7TsmrF53" target="_blank">Cuestionario para antes de empezar</a>
+<a href="http://goo.gl/forms/fpCAgAlIH21mb38x2" target="_blank">Cuestionario para antes de empezar</a>
 
 --
 
@@ -12,7 +13,7 @@
 
 --
 
-<a href="http://goo.gl/forms/BjVNzpgwDMeYK2Vv1" target="_blank">Cuestionario para después de acabar</a>
+<a href="http://goo.gl/forms/r9ueqeTKVJspsYIm1" target="_blank">Cuestionario para después de acabar</a>
 
 
 
