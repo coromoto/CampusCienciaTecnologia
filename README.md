@@ -37,10 +37,16 @@ Conceptos: creaci처n de funciones, invocaci처n de funciones y funciones con par�
 
 ## Sesi처n 5
 
+Creaci처n de una cuenta:
 <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
 
+--
+Introducci처n:
+
+<a href="https://scratch.mit.edu/projects/115371373/" target="_blank">Plantilla</a>
+
 Actividades:
-* Creaci처n de una cuenta.
+
 * Nombre.
 * Pong.
 
