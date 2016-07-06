@@ -27,13 +27,45 @@ Conceptos: Secuencias, bucles, condicionales y anidamiento.
 
 <a href="http://studio.code.org/sections/ZYSWPT" target="_blank">Fundamentos de Computación</a>
 
-Conceptos: bucles, incrementos, funciones, variables, funciones con parámetros.
+Conceptos: bucles, incrementos, funciones, variables.
 
---
+## Sesión 4
 
-## Sesión 
+<a href="http://studio.code.org/sections/ZYSWPT" target="_blank">Fundamentos de Computación</a>
+
+Conceptos: creación de funciones, invocación de funciones y funciones con parámetros.
+
+## Sesión 5
+
+<a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
+
+Actividades:
+* Creación de una cuenta.
+* Nombre.
+* Pong.
+
+## Sesión 6
+
+Proyecto: Programando máquina pensantes.
+
+* Conversación.
+* Preguntas.
+* Hoja de ruta.
+
+## Sesión 7
+
+Primera solución
+
+## Sesión 8 
+
+Segunda solución
+
+## Sesión 9 
+
+Tercera solución
 
 <a href="http://goo.gl/forms/r9ueqeTKVJspsYIm1" target="_blank">Cuestionario para después de acabar</a>
 
+--
 
 
