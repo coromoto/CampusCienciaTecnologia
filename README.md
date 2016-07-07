@@ -35,6 +35,17 @@ Conceptos: bucles, incrementos, funciones, variables.
 
 Conceptos: creación de funciones, invocación de funciones y funciones con parámetros.
 
+
+Resumen de los conceptos estudiados:
+* Secuencia
+* Bloque **repetir** *n* veces
+* Bloque **repetir** *hasta* veces
+* Bloque **repetir** con **contador** (*máximo*, *mínimo*. *paso*) 
+* Bloque **si** 
+* Bloque **si** y **si-sino**
+* Bloque **funciones**
+* Bloque **funciones** con **parámetros**
+
 ## Sesión 5
 
 Creación de una cuenta:
