@@ -65,8 +65,8 @@ Actividades:
 
 Proyecto: Programando máquina pensantes.
 
-* Conversación.
-* Preguntas.
+* <a href="https://scratch.mit.edu/projects/10015800/" target="_blank">Conversación</a>
+* <a href="https://github.com/coromoto/CampusCienciaTecnologia/blob/master/proyecto.pdf" target="_blank">Proyecto</a>
 * Hoja de ruta.
 
 ## Sesión 7
