@@ -58,7 +58,10 @@ Introducción:
 
 Actividades:
 
-* Nombre.
+Los pasos a seguir están en el listado que sale al desplegar el signo de interrogación 
+de la equina superior derecha.
+
+* Anima tu nombre.
 * Pong.
 
 ## Sesión 6
